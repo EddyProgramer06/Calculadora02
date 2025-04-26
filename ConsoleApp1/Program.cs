@@ -45,6 +45,6 @@ class Program
         }   
 
         Console.WriteLine($"El resultado de {operacion} {a} y {b} es: {resultado}");    
-        Console.WriteLine("Presione cualquier tecla para salir...");
+        Console.WriteLine("Presione cualquier tecla para salir.");
     }
 }
